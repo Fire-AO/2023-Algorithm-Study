@@ -47,3 +47,13 @@
 1. `2023-Algorithm-study:main` 브랜치에는 push가 불가능합니다. PR을 보내주고 코드리뷰어들의 `approve`로 승인을 받아야 `2023-Algorithm-study:main`으로 병합됩니다.
 2. 하나의 PR에는 `최소 2개 이상의 approve`가 있어야 합니다.
 3. 지정된 코드리뷰어의 review는 반드시 받아야 합니다.
+
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/kjb512"><img src="https://avatars.githubusercontent.com/u/53505860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김진범</b></a><br><a href="https://solved.ac/kjb512"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kjb512" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/sejineer"><img src="https://avatars.githubusercontent.com/u/95167215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>박세진</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/hojinida"><img src="https://avatars.githubusercontent.com/u/96263955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>장호진</b></a><br><a href="https://solved.ac/opqrs1107"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=opqrs1107" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/yeriniii"><img src="https://avatars.githubusercontent.com/u/118904207?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김예린</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/minseoJeong37"><img src="https://avatars.githubusercontent.com/u/129270693?v=4?s=100" width="100px;" alt=""/><br /><sub><b>정민서</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
+  </tr>
+</table>
