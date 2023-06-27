@@ -1,4 +1,4 @@
-![image](https://github.com/Fire-AO/2023-Algorithm-Study/assets/95167215/d0d7def5-a8e7-4375-86b0-c5ba03b257dc)# 2023-Algorithm-study
+# 2023-Algorithm-study
 여름방학 코딩테스트 대비 알고리즘 스터디 (2023.06.27 ~ 2023.08.31)
 
 ## 진행 시각
