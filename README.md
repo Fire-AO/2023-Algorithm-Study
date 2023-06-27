@@ -1,4 +1,4 @@
-# 2023-Algorithm-study
+![image](https://github.com/Fire-AO/2023-Algorithm-Study/assets/95167215/d0d7def5-a8e7-4375-86b0-c5ba03b257dc)# 2023-Algorithm-study
 여름방학 코딩테스트 대비 알고리즘 스터디 (2023.06.27 ~ 2023.08.31)
 
 ## 진행 시각
@@ -54,7 +54,7 @@
    <td align="center" width="20%;"><a href="https://github.com/kjb512"><img src="https://avatars.githubusercontent.com/u/53505860?v=4?s=100" alt=""/><br /><sub><b>김진범</b></a><br><a href="https://solved.ac/kjb512"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kjb512" /></sub></a><br /></td>
    <td align="center" width="20%;"><a href="https://github.com/sejineer"><img src="https://avatars.githubusercontent.com/u/95167215?v=4?s=100" alt=""/><br /><sub><b>박세진</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
    <td align="center" width="20%;"><a href="https://github.com/hojinida"><img src="https://avatars.githubusercontent.com/u/96263955?v=4?s=100" alt=""/><br /><sub><b>장호진</b></a><br><a href="https://solved.ac/opqrs1107"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=opqrs1107" /></sub></a><br /></td>
-   <td align="center" width="20%;"><a href="https://github.com/yeriniii"><img src="https://avatars.githubusercontent.com/u/118904207?v=4?s=100" alt=""/><br /><sub><b>김예린</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
+   <td align="center" width="20%;"><a href="https://github.com/yeriniii"><img src="https://avatars.githubusercontent.com/u/118904207?v=4?s=100" alt=""/><br /><sub><b>김예린</b></a><br><a href="https://solved.ac/yerini"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yerini" /></sub></a><br /></td>
    <td align="center" width="20%;"><a href="https://github.com/minseoJeong37"><img src="https://avatars.githubusercontent.com/u/129270693?v=4?s=100" alt=""/><br /><sub><b>정민서</b></a><br><a href="https://solved.ac/wjdalstj330"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdalstj330" /></sub></a><br /></td>
   </tr>
 </table>
